@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 AI-Powered Fake News Detection System
 
 A sophisticated fake news detection system powered by Google's Gemini AI, providing detailed analysis, source quality assessment, and red flag detection.
@@ -214,3 +215,6 @@ If you encounter any issues or have questions:
 ---
 
 **⚠️ Disclaimer**: This tool is for educational and research purposes. Always verify information through multiple reliable sources before making important decisions.
+=======
+# fake_news_detection_system
+>>>>>>> 788bf66e74571889017579d2e243a726d065742a
